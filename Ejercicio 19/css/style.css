@@ -1,0 +1,18 @@
+table{
+  margin: auto;
+  margin-top: 12px;
+  border: 1px black solid;
+  text-align: center;
+}
+
+td,th,tr{
+  border:1px black solid;
+}
+
+td {
+  text-align: left;
+}
+
+.bold {
+font-weight: bold;
+}

@@ -1,0 +1,23 @@
+body {
+  background-image: url("../img/empoleon.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+table {
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.5); 
+  background-color: #FFFC9D;
+  margin: 0 auto;
+  margin-top: 18em;
+}
+
+th,
+td {
+  border: 1px solid black;
+  width: 10%;
+}
+
+th {
+  background-color: white;
+}

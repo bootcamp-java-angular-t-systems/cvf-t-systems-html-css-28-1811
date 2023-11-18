@@ -1,0 +1,18 @@
+div {
+  background-image: url("../img/f01.png"), url("../img/f02.png"),
+    url("../img/f03.png");
+  background-repeat: repeat-x, no-repeat, repeat-x;
+  background-position: bottom left, bottom left, top left;
+  background-color: #a4d3ff;
+  border: #665ef5 4px solid;
+  width: 210px;
+  height: 110px;
+  margin: 20px;
+}
+
+.prueba {
+  width: 440px;
+  height: 350px;
+  margin: 30px;
+  border: #cb0c0e 7px solid;
+}

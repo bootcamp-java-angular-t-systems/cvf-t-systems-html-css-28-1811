@@ -1,0 +1,15 @@
+tr th:first-child {
+    width: 200px;
+}
+
+tr td:nth-child(2) {
+    text-align: center;
+}
+
+tr td {
+    background-color: #ccffcc;
+}
+
+tr:last-child td {
+    background-color: #99cc99;
+}

@@ -1,0 +1,30 @@
+table {
+  border-spacing: 0;
+  border: 5px solid #a5a4a4;
+  border-left: 5px solid #f0f0f0;
+  border-top: 5px solid #f8f8f8;
+}
+
+th,
+td {
+    border: 1px solid #0f91c3;
+    width: 110px;
+}
+
+th {
+    text-align: center;
+}
+
+tr:nth-child(odd) {
+  background-color: #99cc99;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #ccffcc;
+}
+
+tr:first-child {
+  background-color: #003333;
+  color: #c1efc3;
+}
